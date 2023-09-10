@@ -1,1 +1,1 @@
-# GCSJ-GDSC-NCU
+# Google Cloud Study Jam | GDSC NCU
